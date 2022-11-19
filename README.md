@@ -3,7 +3,7 @@
 
 - 👨‍🎓 Estudante do Bacharelado em Ciências Exatas e Tecnológicas com foco em Engenharia da Computação
 - 🔭 Hoje atuo como voluntario na Recode JR, a empresa Jr de engenharia da computação da Universidade Federal do Recôncavo da Bahia
-- 🌱 Atualmente estou aprendendo Front-End
+- 👨‍💻 Atualmente estou aprendendo Front-End
 
 
 <div align="center">
