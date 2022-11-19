@@ -1,4 +1,4 @@
-### Olá! Eu sou Robson
+### Olá! Eu sou Robson, e estou começando no mundo da Programação
 
 
 - 👨‍🎓 Estudante do Bacharelado em Ciências Exatas e Tecnológicas com foco em Engenharia da Computação
