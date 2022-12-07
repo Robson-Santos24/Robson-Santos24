@@ -1,19 +1,13 @@
 ### Oi! Eu sou Robson
 
 
-- 👨‍🎓 Estudante do Bacharelado em Ciências Exatas e Tecnológicas com foco em Engenharia da Computação
-- 🔭 Atua como voluntario na Recode JR, a empresa Jr de engenharia da computação da Universidade Federal do Recôncavo da Bahia
-- 👨‍💻 Aprendendo Front-End
-- 🇧🇷
-
-
 <div align="center">
   <a href="https://github.com/Robson-Santos24">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robson-Santos24&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robson-Santos24&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-## Tecnologias que uso
+## Tecnologias que  mais usa
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Robson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
